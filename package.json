@@ -1,0 +1,10 @@
+{
+  "name": "graphical_your_lifestyle",
+  "version": "0.0.0",
+  "description": "graphical your lifestyle when you start remote work",
+  "main": "index.js",
+  "repository": "git@github.com:papettoTV/graphic_your_lifestyle.git",
+  "author": "yokota <aegfrompsbt@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
